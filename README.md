@@ -1,7 +1,7 @@
 
 <p>
-<strong>7180 - Criando APIs com Nest Framework</strong> -
-NodeJS, TypeScript, APIs Rest, Segurança, Performance, Padronização de APIs, GraphQL, Mongo, Mongoose, WebSockets, CQRS e Microsserviços juntos e de uma forma que você nunca viu antes.
+<strong>7180 - Criando APIs com Nest Framework</strong><br>
+<span style='font-size:12px;'>NodeJS, TypeScript, APIs Rest, Segurança, Performance, Padronização de APIs, GraphQL, Mongo, Mongoose, WebSockets, CQRS e Microsserviços juntos e de uma forma que você nunca viu antes.</span>
 </ul>
 </p>
 
